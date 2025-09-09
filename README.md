@@ -15,6 +15,8 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 ---
 
+
+
 ## ALGORITHM
 
 ### Measurement of Analog Voltage
