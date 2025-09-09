@@ -17,6 +17,8 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 
 
+
+
 ## ALGORITHM
 
 ### Measurement of Analog Voltage
@@ -86,6 +88,8 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 | Sawtooth  |   8.08    |     1.62    | 
 | Square    |   9.6     |      5.6    |
 ---
+
+
 
 ## Model Graph
 SAWTOOTH
